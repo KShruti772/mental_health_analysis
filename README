@@ -1,1 +1,99 @@
+# 🧠 Mental Health Analysis in Tech Industry
 
+## 📌 Project Overview
+This project analyzes mental health trends in the tech industry using a real-world survey dataset. The goal is to understand factors affecting mental health and predict whether individuals seek treatment.
+
+---
+
+## 🎯 Objectives
+- Analyze mental health trends among tech employees  
+- Identify key factors influencing treatment-seeking behavior  
+- Understand workplace impact on mental health  
+- Build a machine learning model to predict treatment  
+
+---
+
+## 📊 Dataset Information
+The dataset is based on a 2014 survey on mental health in the tech workplace.
+
+### Features include:
+- Age, Gender, Country  
+- Family history of mental illness  
+- Work interference  
+- Company size  
+- Remote work  
+- Mental health benefits  
+- Workplace support & awareness  
+
+---
+
+## 🧹 Data Preprocessing
+- Handled missing values  
+- Cleaned inconsistent gender values  
+- Removed age outliers  
+- Dropped irrelevant columns  
+
+---
+
+## 📈 Exploratory Data Analysis (EDA)
+
+### 🔹 Univariate Analysis
+- Age distribution  
+- Gender distribution  
+- Treatment frequency  
+
+### 🔹 Bivariate Analysis
+- Treatment vs Family History  
+- Treatment vs Benefits  
+- Treatment vs Work Interference  
+
+### 🔹 Multivariate Analysis
+- Correlation Heatmap  
+- Pairplot  
+- Country-wise comparison  
+
+---
+
+## 📊 Key Insights
+- Individuals with family history are more likely to seek treatment  
+- Workplace support significantly increases treatment rates  
+- Mental health is not treated equally as physical health  
+- Employees are often uncomfortable discussing mental health  
+
+---
+
+## 🤖 Machine Learning Model
+- Model Used: Logistic Regression  
+- Goal: Predict whether a person seeks treatment  
+- Evaluation Metrics:
+  - Accuracy Score  
+  - Confusion Matrix  
+  - Classification Report  
+
+---
+
+## 🚀 Business Recommendations
+- Provide mental health benefits  
+- Promote wellness programs  
+- Encourage open discussions  
+- Train managers for mental health support  
+- Ensure employee anonymity  
+
+---
+
+## 🏁 Conclusion
+Mental health in the tech industry is influenced by both personal and organizational factors. Companies must adopt proactive strategies to create a supportive and stigma-free environment.
+
+---
+
+## 🛠️ Tech Stack
+- Python  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Scikit-learn  
+
+---
+
+## 📂 Project Structure
